@@ -1,0 +1,26 @@
+[
+    {
+        "id": "123",
+        "name": "Atlantis The Palm",
+        "image": "https:\/\/via.placeholder.com\/250x250",
+        "discount_percentage": "29"
+    },
+    {
+        "id": "456",
+        "name": "Jumeirah Beach Hotel",
+        "image": "https:\/\/via.placeholder.com\/250x250",
+        "discount_percentage": "30"
+    },
+    {
+        "id": "789",
+        "name": "Atlantis The Palm new",
+        "image": "https:\/\/via.placeholder.com\/250x250",
+        "discount_percentage": "29"
+    },
+    {
+        "id": "1011",
+        "name": "Jumeirah Beach Hotel new",
+        "image": "https:\/\/via.placeholder.com\/250x250",
+        "discount_percentage": "12"
+    }
+]
